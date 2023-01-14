@@ -25,7 +25,7 @@ public class ZeldaPlayer {
     }
 
 public void hud(){
-    System.out.println("*-Health-Max:10---------------------------*");
+    System.out.println("*-Health-Max:10----------------------------*");
     System.out.print("| ");
     int lostHealth=healthTotal-healthCurrent;
     int heartIndex=0;
