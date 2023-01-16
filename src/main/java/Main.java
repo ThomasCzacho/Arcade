@@ -6,10 +6,7 @@ public class Main {
 
 Player p1 = new Player();
 
-BlackJack blackJack = new BlackJack();
-p1.display();
-blackJack.play(p1);
-p1.display();
+p1.startup();
 
 //        Scanner sc = new Scanner(System.in);
 //        p1.screen();

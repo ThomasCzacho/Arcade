@@ -42,7 +42,7 @@ public class Player {
         }while(counter!=22);
         System.out.println(s);
     }
-// dont touch a single thing from the string below, took an hour to get right
+
     public void startup(){
         String s= "*----------------------------------------------------------------------------------------------------------------------------------------------*";
         System.out.println(s);
